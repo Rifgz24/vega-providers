@@ -1,7 +1,7 @@
 import { Info, Link, ProviderContext } from "../types";
 import { throwProviderError } from "../providerErrors";
 
-const BASE_URL = "https://anichin.my.id";
+const BASE_URL = "https://anichin.moe";
 
 export const getMeta = async function ({
   link,

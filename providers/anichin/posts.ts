@@ -1,6 +1,6 @@
 import { Post, ProviderContext } from "../types";
 
-const BASE_URL = "https://anichin.my.id";
+const BASE_URL = "https://anichin.moe";
 
 export const getPosts = async function ({
   filter,
